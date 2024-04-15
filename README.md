@@ -11,8 +11,8 @@ I'm a researcher specializing in Process Systems Engineering. I'm passionate abo
 - **Machine Learning**: Basics of Machine Learning for process optimization
 
 ## 🔭 Current Projects
-- **Dynamic Modeling of Chemical Processes** - Developing comprehensive dynamic models for predicting the behavior of chemical reactions under various conditions.
-- **Optimization of Energy Systems** - Utilizing advanced optimization techniques to enhance the efficiency and sustainability of energy systems.
+- **Fault Detection and Diagnosis of Industrial Processes** - Utilizing advanced statistical process control (SPC) methods alongside machine learning to enhance detection and diganosis of faults in industial processes.
+- **Optimal Control of Biochemical Processes using Reinforcement Learning** - Developing RL agents on optimal control of different biochemical processes applied to pharmaceutical industry.
 
 ## 🎓 Education
 - PhD in Chemical Engineering - Oklahoma State University (Jan 2023 - Present)
