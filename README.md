@@ -7,7 +7,7 @@ I'm a researcher specializing in Process Systems Engineering. I'm passionate abo
 - **Simulation Tools**: Aspen Plus, MATLAB, gPROMS
 - **Programming**: Python, MATLAB
 - **Data Analysis**: Excel, R
-- **Optimization Techniques**: Linear Programming, Nonlinear Programming
+- **Optimization Techniques**: Linear Programming so far :) 
 - **Machine Learning**: Basics of Machine Learning for process optimization
 
 ## 🔭 Current Projects
@@ -15,20 +15,21 @@ I'm a researcher specializing in Process Systems Engineering. I'm passionate abo
 - **Optimization of Energy Systems** - Utilizing advanced optimization techniques to enhance the efficiency and sustainability of energy systems.
 
 ## 🎓 Education
-- PhD in Chemical Engineering - Specialization in Process Systems Engineering (Institute Name, Year)
-- MSc in Chemical Engineering - Focus on Process Control (Institute Name, Year)
+- PhD in Chemical Engineering - Oklahoma State University (Jan 2023 - Present)
+- MSc in Chemical Engineering - University of Tehran (2019-2022)
+- BEng in Chemical Engineering - University of Tehran (2015-2019)
 
-## 📰 Publications
+<!--## 📰 Publications
 Here are a few selected publications:
 - Miraliakbar, A., et al. "Title of Your Research Paper." Journal Name, Year. [Link to publication](#)
-- Miraliakbar, A., et al. "Title of Another Research Paper." Journal Name, Year. [Link to publication](#)
+- Miraliakbar, A., et al. "Title of Another Research Paper." Journal Name, Year. [Link to publication](#) -->
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Alireza Miraliakbar](https://www.linkedin.com/in/alirezamiraliakbar)
-- **Email**: alireza@example.com
+- **Email**: almiral@okstate.edu
 
 ## ⚡ Fun Fact
-I'm an avid fan of photography and enjoy capturing the beauty of chemical processes through my lens as much as I enjoy researching them.
+I'm an avid fan of photography and enjoy watching soccer!
 
 
 
