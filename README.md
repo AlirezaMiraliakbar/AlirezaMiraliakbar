@@ -25,7 +25,7 @@ Here are a few selected publications:
 - Miraliakbar, A., et al. "Title of Another Research Paper." Journal Name, Year. [Link to publication](#) -->
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Alireza Miraliakbar](https://www.linkedin.com/in/alirezamiraliakbar)
+- **LinkedIn**: [Alireza Miraliakbar]((https://www.linkedin.com/in/alireza-miraliakbar/))
 - **Email**: almiral@okstate.edu
 
 ## ⚡ Fun Fact
