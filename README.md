@@ -5,7 +5,7 @@ I'm a researcher specializing in Process Systems Engineering. I'm passionate abo
 
 ## 🛠 Technologies & Skills
 - **Simulation Tools**: Aspen Plus, MATLAB, gPROMS
-- **Programming**: Python, MATLAB
+- **Programming**: Python, MATLAB, C++, Julia
 - **Data Analysis**: Excel, R
 - **Optimization Techniques**: Linear Programming so far :) 
 - **Machine Learning**: Basics of Machine Learning for process optimization
