@@ -4,11 +4,10 @@
 I'm a researcher specializing in Process Systems Engineering. I'm passionate about developing innovative solutions and models to optimize processes and enhance system efficiencies in the engineering domain.
 
 ## 🛠 Technologies & Skills
-- **Simulation Tools**: Aspen Plus, MATLAB, gPROMS
+- **Simulation Tools**: Aspen Plus and Hysys, MATLAB
 - **Programming**: Python, MATLAB, C++, Julia
 - **Data Analysis**: Excel, R
-- **Optimization Techniques**: Linear Programming so far :) 
-- **Machine Learning**: Basics of Machine Learning for process optimization
+- **Machine Learning**
 
 ## 🔭 Current Projects
 - **Fault Detection and Diagnosis of Industrial Processes** - Utilizing advanced statistical process control (SPC) methods alongside machine learning to enhance detection and diganosis of faults in industial processes.
