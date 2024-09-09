@@ -14,7 +14,7 @@ I'm a researcher specializing in Process Systems Engineering. I'm passionate abo
 - **Optimal Control of Biochemical Processes using Reinforcement Learning** - Developing RL agents on optimal control of different biochemical processes applied to pharmaceutical industry.
 
 ## 🎓 Education
-- PhD in Chemical Engineering - Oklahoma State University (Jan 2023 - Present)
+- PhD in Chemical Engineering - University of Connecticut (Aug 2024 - Present)
 - MSc in Chemical Engineering - University of Tehran (2019-2022)
 - BEng in Chemical Engineering - University of Tehran (2015-2019)
 
@@ -25,7 +25,7 @@ Here are a few selected publications:
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Alireza Miraliakbar]((https://www.linkedin.com/in/alireza-miraliakbar/))
-- **Email**: almiral@okstate.edu
+- **Email**: alireza.miraliakbar@uconn.edu
 
 ## ⚡ Fun Fact
 I'm an avid fan of photography and enjoy watching soccer!
