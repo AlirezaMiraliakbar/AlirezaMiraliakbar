@@ -9,9 +9,9 @@ I'm a researcher specializing in Process Systems Engineering. I'm passionate abo
 - **Data Analysis**: Excel, R
 - **Machine Learning**: PyTorch, sklearn, TensorFlow
 
-## 🔭 Current Projects
+<!--## 🔭 Current Projects
 - **Fault Detection and Diagnosis of Industrial Processes** - Utilizing advanced statistical process control (SPC) methods alongside machine learning to enhance detection and diganosis of faults in industial processes.
-- **Optimal Control of Biochemical Processes using Reinforcement Learning** - Developing RL agents on optimal control of different biochemical processes applied to pharmaceutical industry.
+- **Optimal Control of Biochemical Processes using Reinforcement Learning** - Developing RL agents on optimal control of different biochemical processes applied to pharmaceutical industry.-->
 
 ## 🎓 Education
 - PhD in Chemical Engineering - University of Connecticut (Aug 2024 - Present)
